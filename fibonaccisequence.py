@@ -1,4 +1,4 @@
-#this little program creates a Fibonacci Sequence and asks you which number you need
+#this little program creates a Fibonacci Sequence and asks you which number in the sequence you need
 
 fibo = [0,1]
 def fibor(fibo):
